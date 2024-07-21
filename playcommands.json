@@ -20,7 +20,10 @@
         {
           "modeName" : "solo_tourney",
           "name" : "Solo (Tournament)",
-          "identifier" : "quake_solo_tourney"
+          "identifier" : "quake_solo_tourney",
+          "requirements" : {
+            "tournament": true
+          }
         }
       ]
     },
@@ -28,7 +31,13 @@
       "game" : "SKYCLASH",
       "name" : "SkyClash",
       "id" : 55,
-      "modes" : []
+      "modes" : [
+        {
+          "requirements" : {
+            "unavailable" : true
+          }
+        }
+      ]
     },
     {
       "game" : "BUILD_BATTLE",
@@ -38,14 +47,18 @@
         {
           "modeName" : "BUILD_BATTLE_HALLOWEEN",
           "name" : "Halloween Hyper",
-          "identifier" : "build_battle_halloween"
+          "identifier" : "build_battle_halloween",
+          "requirements" : {
+            "seasonal" : true
+          }
         },
         {
           "modeName" : "BUILD_BATTLE_CHRISTMAS_NEW_TEAMS",
           "name" : "Holiday Teams",
           "identifier" : "build_battle_christmas_new_teams",
           "requirements" : {
-            "minPartySize" : 2
+            "minPartySize" : 2,
+            "seasonal" : true
           }
         },
         {
@@ -82,11 +95,17 @@
         {
           "modeName" : "BUILD_BATTLE_CHRISTMAS_NEW_SOLO",
           "name" : "Holiday Solo",
-          "identifier" : "build_battle_christmas_new_solo"
+          "identifier" : "build_battle_christmas_new_solo",
+          "requirements" : {
+            "seasonal" : true
+          }
         },
         {
           "modeName" : "BUILD_BATTLE_CHRISTMAS",
-          "name" : "Christmas"
+          "name" : "Christmas",
+          "requirements" : {
+            "unavailable" : true
+          }
         }
       ]
     },
@@ -156,7 +175,10 @@
         {
           "modeName" : "wool_wars_two_four_tourney",
           "name" : "4v4 (Tournament)",
-          "identifier" : "wool_wool_wars_two_four_tourney"
+          "identifier" : "wool_wool_wars_two_four_tourney",
+          "requirements" : {
+            "tournament" : true
+          }
         },
         {
           "modeName" : "wool_wool_wars_two_four",
@@ -262,7 +284,10 @@
       "modes" : [
         {
           "modeName" : "TEAMS_NORMAL",
-          "name" : "Teams Mode"
+          "name" : "Teams Mode",
+          "requirements" : {
+            "unavailable" : true
+          }
         },
         {
           "modeName" : "PVPRUN",
@@ -277,7 +302,10 @@
         {
           "modeName" : "TNTRUN_TOURNEY",
           "name" : "TNT Run Tourney",
-          "identifier" : "tnt_tntrun_tourney"
+          "identifier" : "tnt_tntrun_tourney",
+          "requirements" : {
+            "tournament": true
+          }
         },
         {
           "modeName" : "TNTRUN",
