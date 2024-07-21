@@ -106,6 +106,20 @@
       ]
     },
     {
+      "game" : "SKYBLOCK",
+      "name" : "SkyBlock",
+      "id" : 63,
+      "modes" : [
+        {
+          "name" : "SkyBlock",
+          "identifier" : "skyblock",
+          "aliases" : [
+            "sb"
+          ]
+        }
+      ]
+    },
+    {
       "game" : "MCGO",
       "name" : "Cops and Crims",
       "id" : 21,
@@ -119,14 +133,14 @@
           "identifier" : "mcgo_deathmatch"
         },
         {
-          "name" : "",
+          "name" : "Defusal Challenge",
           "identifier" : "mcgo_normal_party",
           "requirements" : {
             "minPartySize" : 8
           }
         },
         {
-          "name" : "",
+          "name" : "Team Deathmatch Challenge",
           "identifier" : "mcgo_deathmatch_party",
           "requirements" : {
             "minPartySize" : 8
@@ -135,16 +149,150 @@
       ]
     },
     {
-      "game" : "SKYBLOCK",
-      "name" : "SkyBlock",
-      "id" : 63,
+      "game" : "WOOL_GAMES",
+      "name" : "Wool Wars",
+      "id" : 68,
       "modes" : [
         {
-          "name" : "SkyBlock",
-          "identifier" : "skyblock",
-          "aliases" : [
-            "sb"
-          ]
+          "modeName" : "wool_wars_two_four_tourney",
+          "name" : "4v4 (Tournament)",
+          "identifier" : "wool_wool_wars_two_four_tourney"
+        },
+        {
+          "modeName" : "wool_wool_wars_two_four",
+          "name" : "Wool Wars",
+          "identifier" : "wool_wool_wars_two_four"
+        }
+      ]
+    },
+    {
+      "game" : "SURVIVAL_GAMES",
+      "name" : "Blitz Survival Games",
+      "id" : 5,
+      "modes" : [
+        {
+          "name" : "Solo",
+          "identifier" : "blitz_solo_normal" 
+        },
+        {
+          "name" : "Teams",
+          "identifier" : "blitz_teams_normal"
+        }
+      ]
+    },
+    {
+      "game" : "BATTLEGROUND",
+      "name" : "Warlords",
+      "id" : 23,
+      "modes" : [
+        {
+          "modeName" : "DOM",
+          "name" : "Domination",
+          "identifier" : "warlords_domination"
+        },
+        {
+          "modeName" : "CTF",
+          "name" : "Capture the Flag",
+          "identifier" : "warlords_ctf_mini"
+        },
+        {
+          "modeName" : "TDM",
+          "name" : "Team Deathmatch",
+          "identifier" : "warlords_team_deathmatch"
+        }
+      ]
+    },
+    {
+      "game" : "MURDER_MYSTERY",
+      "name" : "Murder Mystery",
+      "id" : 59,
+      "modes" : [
+        {
+          "modeName" : "MURDER_DOUBLE_UP",
+          "name" : "Double Up",
+          "identifier" : "murder_double_up"
+        },
+        {
+          "modeName" : "MURDER_INFECTION",
+          "name" : "Infection",
+          "identifier" : "murder_infection"
+        },
+        {
+          "modeName" : "MURDER_ASSASSINS",
+          "name" : "Assassins",
+          "identifier" : "murder_assassins"
+        },
+        {
+          "modeName" : "MURDER_CLASSIC",
+          "name" : "Classic",
+          "identifier" : "murder_classic"
+        }
+      ]
+    },
+    {
+      "game" : "ARCADE",
+      "name" : "Arcade",
+      "id" : 14,
+      "modes" : [
+      ]
+    },
+    {
+      "game" : "ARENA",
+      "name" : "Arena",
+      "id" : 17,
+      "modes" : [
+        {
+          "name" :"1v1",
+          "identifier" : "arena_1v1"
+        },
+        {
+          "name" :"2v2",
+          "identifier" : "arena_2v2"
+        },
+        {
+          "name" :"2v2",
+          "identifier" : "arena_4v4"
+        }
+      ]
+    },
+    {
+      "game" : "TNTGAMES",
+      "name" : "The TNT Games",
+      "id" : 6,
+      "modes" : [
+        {
+          "modeName" : "TEAMS_NORMAL",
+          "name" : "Teams Mode"
+        },
+        {
+          "modeName" : "PVPRUN",
+          "name" : "PVP Run",
+          "identifier" : "tnt_pvprun"
+        },
+        {
+          "modeName" : "TNTAG",
+          "name" : "TNT Tag",
+          "identifier" : "tnt_tntag"
+        },
+        {
+          "modeName" : "TNTRUN_TOURNEY",
+          "name" : "TNT Run Tourney",
+          "identifier" : "tnt_tntrun_tourney"
+        },
+        {
+          "modeName" : "TNTRUN",
+          "name" : "TNT Run",
+          "identifier" : "tnt_tntrun"
+        },
+        {
+          "modeName" : "BOWSPLEEF",
+          "name" : "Bow Spleef",
+          "identifier" : "tnt_bowspleef"
+        },
+        {
+          "modeName" : "CAPTURE",
+          "name" : "Wizards",
+          "identifier" : "tnt_capture"
         }
       ]
     }
