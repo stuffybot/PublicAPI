@@ -295,6 +295,128 @@
           "identifier" : "tnt_capture"
         }
       ]
+    },
+    {
+      "game" : "WALLS",
+      "name" : "Walls",
+      "id" : 3,
+      "modes" : [
+        {
+          "name" : "Walls",
+          "identifier" : "walls"
+        }
+      ]
+    },
+    {
+      "game" : "SKYWARS",
+      "name" : "SkyWars",
+      "id" : 51,
+      "modes" : [
+        {
+          "modeName" : "solo_insane_lucky",
+          "name" : "Solo Lucky Block",
+          "identifier" : "solo_insane_lucky"
+        },
+        {
+          "modeName" : "solo_insane_slime",
+          "name" : "Solo Slime",
+          "identifier" : "solo_insane_slime",
+          "requirements" : {
+            "unavailable" : true
+          }
+        },
+        {
+          "modeName" : "teams_insane_slime",
+          "name" : "Teams Slime",
+          "identifier" : "teams_insane_slime",
+          "requirements" : {
+            "unavailable" : true
+          }
+        },
+        {
+          "modeName" : "teams_insane_rush",
+          "name" : "Teams Rush",
+          "identifier" : "teams_insane_rush",
+          "requirements" : {
+            "unavailable" : true
+          }
+        },
+        {
+          "modeName" : "teams_insane_lucky",
+          "name" : "Teams Lucky Block",
+          "identifier" : "teams_insane_lucky"
+        },
+        {
+          "modeName" : "solo_normal",
+          "name" : "Solo Normal",
+          "identifier" : "solo_normal"
+        },
+        {
+          "modeName" : "teams_insane",
+          "name" : "Teams Insane",
+          "identifier" : "teams_insane"
+        },
+        {
+          "modeName" : "solo_insane_hunters_vs_beasts",
+          "name" : "Solo Hunters vs Beasts",
+          "identifier" : "solo_insane_hunters_vs_beasts",
+          "requirements" : {
+            "unavailable" : true
+          }
+        },
+        {
+          "modeName" : "ranked_normal",
+          "name" : "Ranked",
+          "identifier" : "ranked_normal",
+          "requirements" : {
+            "unavailable" : true
+          }
+        },
+        {
+          "modeName" : "solo_insane_tnt_madness",
+          "name" : "Solo TNT Madness",
+          "identifier" : "solo_insane_tnt_madness",
+          "requirements" : {
+            "unavailable" : true
+          }
+        },
+        {
+          "modeName" : "mega_doubles",
+          "name" : "Mega Doubles",
+          "identifier" : "mega_doubles"
+        },
+        {
+          "modeName" : "solo_insane_rush",
+          "name" : "Solo Rush",
+          "identifier" : "solo_insane_rush",
+          "requirements" : {
+            "unavailable" : true
+          }
+        },
+        {
+          "modeName" : "solo_insane",
+          "name" : "Solo Insane",
+          "identifier" : "solo_insane"
+        },
+        {
+          "modeName" : "teams_insane_tnt_madness",
+          "name" : "Teams TNT Madness",
+          "identifier" : "teams_insane_tnt_madness",
+          "requirements" : {
+            "unavailable" : true
+          }
+        },
+        {
+          "modeName" : "teams_normal",
+          "name" : "Teams Normal",
+          "identifier" : "teams_normal"
+        },
+        {
+          "modeName" : "mega_normal",
+          "name" : "Mega",
+          "identifier" : "mega_normal"
+        }
+      ]
     }
   ]
 }
