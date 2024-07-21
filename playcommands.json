@@ -5,6 +5,7 @@
     {
       "game" : "QUAKECRAFT",
       "name" : "Quakecraft",
+      "id" : 2,
       "modes" : [
         {
           "modeName" : "solo",
@@ -26,11 +27,13 @@
     {
       "game" : "SKYCLASH",
       "name" : "SkyClash",
+      "id" : 55,
       "modes" : []
     },
     {
       "game" : "BUILD_BATTLE",
       "name" : "Build Battle",
+      "id" : 60,
       "modes" : [
         {
           "modeName" : "BUILD_BATTLE_HALLOWEEN",
@@ -75,6 +78,21 @@
         {
           "modeName" : "BUILD_BATTLE_CHRISTMAS",
           "name" : "Christmas"
+        }
+      ]
+    },
+    {
+      "game" : "UHC",
+      "name" : "UHC Champions",
+      "id" : 20,
+      "modes" : [
+        {
+          "name" : "Solo",
+          "identifier" : "uhc_solo"
+        },
+        {
+          "name" : "Teams",
+          "identifier" : "uhc_teams"
         }
       ]
     },
