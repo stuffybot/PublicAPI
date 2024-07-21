@@ -445,6 +445,46 @@
           "identifier" : "mega_normal"
         }
       ]
+    },
+    {
+      "game" : "VAMPIREZ",
+      "name" : "VampireZ",
+      "id" : 7,
+      "modes" : [
+        {
+          "modeName" : "VAMPIREZ",
+          "name" : "VampireZ",
+          "identifier" : "vampirez"
+        }
+      ]
+    },
+    {
+      "game" : "PROTOTYPE",
+      "name" : "Prototype",
+      "id" : 57,
+      "modes" : [
+        {
+          "modeName" : "SHEEPWARS_TWO_SIX",
+          "name" : "Sheep Wars"
+        }
+      ]
+    },
+    {
+      "game" : "Walls3",
+      "name" : "Mega Walls",
+      "id" : 13,
+      "modes" : [
+        {
+          "modeName" : "standard",
+          "name" : "Standard",
+          "identifier" : "mw_standard"
+        },
+        {
+          "modeName" : "face_off",
+          "name" : "Face Off",
+          "identifier" : "mw_face_off"
+        }
+      ]
     }
   ]
 }
