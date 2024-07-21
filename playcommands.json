@@ -1,0 +1,33 @@
+{
+  "success" : true,
+  "root" : "/play",
+  "play_commands" : [
+    {
+      "game" : "QUAKECRAFT",
+      "name" : "Quakecraft",
+      "modes" : [
+        {
+          "name" : "Quake Solo",
+          "identifier" : "quake_solo"
+        },
+        {
+          "name":"Quake Teams",
+          "identifier" : "quake_teams"
+        }
+      ]
+    },
+    {
+      "game" : "SKYBLOCK",
+      "name" : "SkyBlock",
+      "modes" : [
+        {
+          "name" : "SkyBlock",
+          "identifier" : "skyblock",
+          "aliases" : [
+            "sb"
+          ]
+        }
+      ]
+    }
+  ]
+}
