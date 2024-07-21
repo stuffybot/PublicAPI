@@ -7,15 +7,31 @@
       "name" : "Quakecraft",
       "modes" : [
         {
-          "name" : "Quake Solo",
+          "modeName" : "solo",
+          "name" : "Solo",
           "identifier" : "quake_solo"
         },
         {
-          "name":"Quake Teams",
+          "modeName" : "teams",
+          "name":"Teams",
           "identifier" : "quake_teams"
+        },
+        {
+          "modeName" : "solo_tourney",
+          "name" : "Solo (Tournament)",
+          "identifier" : "quake_solo_tourney"
         }
       ]
     },
+    {
+      "game" : "BUILD_BATTLE",
+      "name" : "Build Battle",
+      "modes" : [
+        {
+          "name" : "Build Battle Solo"
+        }
+      ]
+    }
     {
       "game" : "SKYBLOCK",
       "name" : "SkyBlock",
