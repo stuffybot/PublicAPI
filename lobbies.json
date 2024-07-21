@@ -1,0 +1,27 @@
+{
+  "success" : true,
+  "roots" : [
+    "/l",
+    "/lobby"
+  ],
+  "lobby_commands" : [
+    {
+      "game" : "MAIN",
+      "name" : "Main",
+      "identifier" : "",
+      "aliases" : [
+        "main",
+        "lobby"
+      ]
+    },
+    {
+      "game" : "PROTOTYPE",
+      "name" : "Prototype",
+      "identifier" : "prototype",
+      "aliases" : [
+        "ptl",
+        "sb"
+      ]
+    }
+  ]
+}
