@@ -43,12 +43,18 @@
         {
           "modeName" : "BUILD_BATTLE_CHRISTMAS_NEW_TEAMS",
           "name" : "Holiday Teams",
-          "identifier" : "build_battle_christmas_new_teams"
+          "identifier" : "build_battle_christmas_new_teams",
+          "requirements" : {
+            "minPartySize" : 2
+          }
         },
         {
           "modeName" : "BUILD_BATTLE_SOLO_NORMAL_LATEST ",
           "name" : "Solo (1.14+)",
-          "identifier" : "build_battle_solo_normal_latest"
+          "identifier" : "build_battle_solo_normal_latest",
+          "requirements" : {
+            "version" : "1.14+"
+          }
         },
         {
           "modeName" : "BUILD_BATTLE_GUESS_THE_BUILD",
@@ -58,7 +64,10 @@
         {
           "modeName" : "BUILD_BATTLE_TEAMS_NORMAL",
           "name" : "Teams",
-          "identifier" : "build_battle_teams_normal"
+          "identifier" : "build_battle_teams_normal",
+          "requirements" : {
+            "minPartySize" : 2
+          }
         },
         {
           "modeName" : "BUILD_BATTLE_SOLO_NORMAL",
@@ -97,8 +106,38 @@
       ]
     },
     {
+      "game" : "MCGO",
+      "name" : "Cops and Crims",
+      "id" : 21,
+      "modes" : [
+        {
+          "name" : "Defusal",
+          "identifier" : "mcgo_normal"
+        },
+        {
+          "name" : "Team Deathmatch",
+          "identifier" : "mcgo_deathmatch"
+        },
+        {
+          "name" : "",
+          "identifier" : "mcgo_normal_party",
+          "requirements" : {
+            "minPartySize" : 8
+          }
+        },
+        {
+          "name" : "",
+          "identifier" : "mcgo_deathmatch_party",
+          "requirements" : {
+            "minPartySize" : 8
+          }
+        }
+      ]
+    },
+    {
       "game" : "SKYBLOCK",
       "name" : "SkyBlock",
+      "id" : 63,
       "modes" : [
         {
           "name" : "SkyBlock",

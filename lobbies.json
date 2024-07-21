@@ -8,7 +8,6 @@
     {
       "game" : "MAIN",
       "name" : "Main",
-      "identifier" : "",
       "aliases" : [
         "main",
         "lobby"
