@@ -725,7 +725,7 @@
         },
         {
           "modeName": "TOWERWARS_SOLO",
-          "name": "Towerwars - Solo",
+          "name": "TowerWars - Solo",
           "requirements": {
             "unavailable": true
           }
@@ -739,7 +739,7 @@
         },
         {
           "modeName": "TOWERWARS_TEAM_OF_TWO",
-          "name": "Towerwars - Teams of two",
+          "name": "TowerWars - Teams of two",
           "requirements": {
             "unavailable": true
           }
