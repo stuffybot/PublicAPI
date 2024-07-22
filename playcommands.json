@@ -1,670 +1,681 @@
 {
-  "success" : true,
-  "root" : "/play",
-  "play_commands" : [
+  "success": true,
+  "root": "/play",
+  "play_commands": [
     {
-      "game" : "QUAKECRAFT",
-      "name" : "Quakecraft",
-      "id" : 2,
-      "modes" : [
+      "game": "QUAKECRAFT",
+      "name": "Quakecraft",
+      "id": 2,
+      "modes": [
         {
-          "modeName" : "solo",
-          "name" : "Solo",
-          "identifier" : "quake_solo"
+          "modeName": "solo",
+          "name": "Solo",
+          "identifier": "quake_solo"
         },
         {
-          "modeName" : "teams",
-          "name":"Teams",
-          "identifier" : "quake_teams"
+          "modeName": "teams",
+          "name": "Teams",
+          "identifier": "quake_teams"
         },
         {
-          "modeName" : "solo_tourney",
-          "name" : "Solo (Tournament)",
-          "identifier" : "quake_solo_tourney",
-          "requirements" : {
+          "modeName": "solo_tourney",
+          "name": "Solo (Tournament)",
+          "identifier": "quake_solo_tourney",
+          "requirements": {
             "tournament": true
           }
         }
       ]
     },
     {
-      "game" : "SKYCLASH",
-      "name" : "SkyClash",
-      "id" : 55,
-      "modes" : [
+      "game": "SKYCLASH",
+      "name": "SkyClash",
+      "id": 55,
+      "modes": [
         {
-          "requirements" : {
-            "unavailable" : true
+          "requirements": {
+            "unavailable": true
           }
         }
       ]
     },
     {
-      "game" : "BUILD_BATTLE",
-      "name" : "Build Battle",
-      "id" : 60,
-      "modes" : [
+      "game": "BUILD_BATTLE",
+      "name": "Build Battle",
+      "id": 60,
+      "modes": [
         {
-          "modeName" : "BUILD_BATTLE_HALLOWEEN",
-          "name" : "Halloween Hyper",
-          "identifier" : "build_battle_halloween",
-          "requirements" : {
-            "seasonal" : true
+          "modeName": "BUILD_BATTLE_HALLOWEEN",
+          "name": "Halloween Hyper",
+          "identifier": "build_battle_halloween",
+          "requirements": {
+            "seasonal": true
           }
         },
         {
-          "modeName" : "BUILD_BATTLE_CHRISTMAS_NEW_TEAMS",
-          "name" : "Holiday Teams",
-          "identifier" : "build_battle_christmas_new_teams",
-          "requirements" : {
-            "minPartySize" : 2,
-            "seasonal" : true
+          "modeName": "BUILD_BATTLE_CHRISTMAS_NEW_TEAMS",
+          "name": "Holiday Teams",
+          "identifier": "build_battle_christmas_new_teams",
+          "requirements": {
+            "minPartySize": 2,
+            "seasonal": true
           }
         },
         {
-          "modeName" : "BUILD_BATTLE_SOLO_NORMAL_LATEST",
-          "name" : "Solo (1.14+)",
-          "identifier" : "build_battle_solo_normal_latest",
-          "requirements" : {
-            "version" : "1.14+"
+          "modeName": "BUILD_BATTLE_SOLO_NORMAL_LATEST",
+          "name": "Solo (1.14+)",
+          "identifier": "build_battle_solo_normal_latest",
+          "requirements": {
+            "version": "1.14+"
           }
         },
         {
-          "modeName" : "BUILD_BATTLE_GUESS_THE_BUILD",
-          "name" : "Guess The Build",
-          "identifier" : "build_battle_guess_the_build"
+          "modeName": "BUILD_BATTLE_GUESS_THE_BUILD",
+          "name": "Guess The Build",
+          "identifier": "build_battle_guess_the_build"
         },
         {
-          "modeName" : "BUILD_BATTLE_TEAMS_NORMAL",
-          "name" : "Teams",
-          "identifier" : "build_battle_teams_normal",
-          "requirements" : {
-            "minPartySize" : 2
+          "modeName": "BUILD_BATTLE_TEAMS_NORMAL",
+          "name": "Teams",
+          "identifier": "build_battle_teams_normal",
+          "requirements": {
+            "minPartySize": 2
           }
         },
         {
-          "modeName" : "BUILD_BATTLE_SOLO_NORMAL",
-          "name" : "Solo",
-          "identifier" : "build_battle_solo_normal"
+          "modeName": "BUILD_BATTLE_SOLO_NORMAL",
+          "name": "Solo",
+          "identifier": "build_battle_solo_normal"
         },
         {
-          "modeName" : "BUILD_BATTLE_SOLO_PRO",
-          "name" : "Pro",
-          "identifier" : "build_battle_solo_pro"
+          "modeName": "BUILD_BATTLE_SOLO_PRO",
+          "name": "Pro",
+          "identifier": "build_battle_solo_pro"
         },
         {
-          "modeName" : "BUILD_BATTLE_CHRISTMAS_NEW_SOLO",
-          "name" : "Holiday Solo",
-          "identifier" : "build_battle_christmas_new_solo",
-          "requirements" : {
-            "seasonal" : true
+          "modeName": "BUILD_BATTLE_CHRISTMAS_NEW_SOLO",
+          "name": "Holiday Solo",
+          "identifier": "build_battle_christmas_new_solo",
+          "requirements": {
+            "seasonal": true
           }
         },
         {
-          "modeName" : "BUILD_BATTLE_CHRISTMAS",
-          "name" : "Christmas",
-          "requirements" : {
-            "unavailable" : true
-          }
-        }
-      ]
-    },
-    {
-      "game" : "UHC",
-      "name" : "UHC Champions",
-      "id" : 20,
-      "modes" : [
-        {
-          "name" : "Solo",
-          "identifier" : "uhc_solo"
-        },
-        {
-          "name" : "Teams",
-          "identifier" : "uhc_teams"
-        }
-      ]
-    },
-    {
-      "game" : "LEGACY",
-      "name" : "Classic Games",
-      "id" : 56,
-      "modes" : [
-        {
-          "requirements" : {
-            "unavailable" : true
+          "modeName": "BUILD_BATTLE_CHRISTMAS",
+          "name": "Christmas",
+          "requirements": {
+            "unavailable": true
           }
         }
       ]
     },
     {
-      "game" : "SKYBLOCK",
-      "name" : "SkyBlock",
-      "id" : 63,
-      "modes" : [
+      "game": "UHC",
+      "name": "UHC Champions",
+      "id": 20,
+      "modes": [
         {
-          "name" : "SkyBlock",
-          "identifier" : "skyblock",
-          "aliases" : [
+          "name": "Solo",
+          "identifier": "uhc_solo"
+        },
+        {
+          "name": "Teams",
+          "identifier": "uhc_teams"
+        }
+      ]
+    },
+    {
+      "game": "LEGACY",
+      "name": "Classic Games",
+      "id": 56,
+      "modes": [
+        {
+          "requirements": {
+            "unavailable": true
+          }
+        }
+      ]
+    },
+    {
+      "game": "SKYBLOCK",
+      "name": "SkyBlock",
+      "id": 63,
+      "modes": [
+        {
+          "name": "SkyBlock",
+          "identifier": "skyblock",
+          "aliases": [
             "sb"
           ]
         },
         {
-          "modeName" : "farming_1",
-          "name" : "The Farming Islands"
+          "modeName": "farming_1",
+          "name": "The Farming Islands"
         },
         {
-          "modeName" : "crystal_hollows",
-          "name" : "Crystal Hollows"
+          "modeName": "crystal_hollows",
+          "name": "Crystal Hollows"
         },
         {
-          "modeName" : "winter",
-          "name" : "Jerry's Workshop"
+          "modeName": "winter",
+          "name": "Jerry's Workshop"
         },
         {
-          "modeName" : "foraging_1",
-          "name" : "The Park"
+          "modeName": "foraging_1",
+          "name": "The Park"
         },
         {
-          "modeName" : "dark_auction",
-          "name" : "Dark Auction"
+          "modeName": "dark_auction",
+          "name": "Dark Auction"
         },
         {
-          "modeName" : "dungeon",
-          "name" : "Dungeons"
+          "modeName": "dungeon",
+          "name": "Dungeons"
         },
         {
-          "modeName" : "combat_3",
-          "name" : "The End"
+          "modeName": "combat_3",
+          "name": "The End"
         },
         {
-          "modeName" : "crismon_isle",
-          "name" : "Crimson Isle"
+          "modeName": "crismon_isle",
+          "name": "Crimson Isle"
         },
         {
-          "modeName" : "hub",
-          "name" : "Hub"
+          "modeName": "hub",
+          "name": "Hub"
         },
         {
-          "modeName" : "instanced",
-          "name" : "Kuudra's Hollow"
+          "modeName": "instanced",
+          "name": "Kuudra's Hollow"
         },
         {
-          "modeName" : "dynamic",
-          "name" : "Private Island"
+          "modeName": "dynamic",
+          "name": "Private Island"
         },
         {
-          "modeName" : "mining_3",
-          "name" : "Dwarven Mines"
+          "modeName": "mining_3",
+          "name": "Dwarven Mines"
         },
         {
-          "modeName" : "garden",
-          "name" : "The Garden"
+          "modeName": "garden",
+          "name": "The Garden"
         },
         {
-          "modeName" : "mining_1",
-          "name" : "Gold Mine"
+          "modeName": "mining_1",
+          "name": "Gold Mine"
         },
         {
-          "modeName" : "combat_2",
-          "name" : "Blazing Fortress",
-          "requirements" : {
-            "unavailable" : true
+          "modeName": "combat_2",
+          "name": "Blazing Fortress",
+          "requirements": {
+            "unavailable": true
           }
         },
         {
-          "modeName" : "mining_2",
-          "name" : "Deep Caverns"
+          "modeName": "mining_2",
+          "name": "Deep Caverns"
         },
         {
-          "modeName" : "combat_1",
-          "name" : "Spider's Den"
+          "modeName": "combat_1",
+          "name": "Spider's Den"
         }
       ]
     },
     {
-      "game" : "MCGO",
-      "name" : "Cops and Crims",
-      "id" : 21,
+      "game" : "HOUSING",
+      "name" : "Housing",
+      "id" : 26,
       "modes" : [
         {
-          "name" : "Defusal",
-          "identifier" : "mcgo_normal"
+          "modeName" : "HOUSING",
+          "name" : "Housing"
+        }
+      ]
+    },
+    {
+      "game": "MCGO",
+      "name": "Cops and Crims",
+      "id": 21,
+      "modes": [
+        {
+          "name": "Defusal",
+          "identifier": "mcgo_normal"
         },
         {
-          "name" : "Team Deathmatch",
-          "identifier" : "mcgo_deathmatch"
+          "name": "Team Deathmatch",
+          "identifier": "mcgo_deathmatch"
         },
         {
-          "name" : "Defusal Challenge",
-          "identifier" : "mcgo_normal_party",
-          "requirements" : {
-            "minPartySize" : 8
+          "name": "Defusal Challenge",
+          "identifier": "mcgo_normal_party",
+          "requirements": {
+            "minPartySize": 8
           }
         },
         {
-          "name" : "Team Deathmatch Challenge",
-          "identifier" : "mcgo_deathmatch_party",
-          "requirements" : {
-            "minPartySize" : 8
+          "name": "Team Deathmatch Challenge",
+          "identifier": "mcgo_deathmatch_party",
+          "requirements": {
+            "minPartySize": 8
           }
         }
       ]
     },
     {
-      "game" : "WOOL_GAMES",
-      "name" : "Wool Wars",
-      "id" : 68,
-      "modes" : [
+      "game": "WOOL_GAMES",
+      "name": "Wool Wars",
+      "id": 68,
+      "modes": [
         {
-          "modeName" : "wool_wars_two_four_tourney",
-          "name" : "4v4 (Tournament)",
-          "identifier" : "wool_wool_wars_two_four_tourney",
-          "requirements" : {
-            "tournament" : true
-          }
-        },
-        {
-          "modeName" : "wool_wool_wars_two_four",
-          "name" : "Wool Wars",
-          "identifier" : "wool_wool_wars_two_four"
-        }
-      ]
-    },
-    {
-      "game" : "SURVIVAL_GAMES",
-      "name" : "Blitz Survival Games",
-      "id" : 5,
-      "modes" : [
-        {
-          "name" : "Solo",
-          "identifier" : "blitz_solo_normal" 
-        },
-        {
-          "name" : "Teams",
-          "identifier" : "blitz_teams_normal"
-        }
-      ]
-    },
-    {
-      "game" : "BATTLEGROUND",
-      "name" : "Warlords",
-      "id" : 23,
-      "modes" : [
-        {
-          "modeName" : "DOM",
-          "name" : "Domination",
-          "identifier" : "warlords_domination"
-        },
-        {
-          "modeName" : "CTF",
-          "name" : "Capture the Flag",
-          "identifier" : "warlords_ctf_mini"
-        },
-        {
-          "modeName" : "TDM",
-          "name" : "Team Deathmatch",
-          "identifier" : "warlords_team_deathmatch"
-        }
-      ]
-    },
-    {
-      "game" : "MURDER_MYSTERY",
-      "name" : "Murder Mystery",
-      "id" : 59,
-      "modes" : [
-        {
-          "modeName" : "MURDER_DOUBLE_UP",
-          "name" : "Double Up",
-          "identifier" : "murder_double_up"
-        },
-        {
-          "modeName" : "MURDER_INFECTION",
-          "name" : "Infection",
-          "identifier" : "murder_infection"
-        },
-        {
-          "modeName" : "MURDER_ASSASSINS",
-          "name" : "Assassins",
-          "identifier" : "murder_assassins"
-        },
-        {
-          "modeName" : "MURDER_CLASSIC",
-          "name" : "Classic",
-          "identifier" : "murder_classic"
-        }
-      ]
-    },
-    {
-      "game" : "ARCADE",
-      "name" : "Arcade",
-      "id" : 14,
-      "modes" : [
-      ]
-    },
-    {
-      "game" : "ARENA",
-      "name" : "Arena",
-      "id" : 17,
-      "modes" : [
-        {
-          "name" :"1v1",
-          "identifier" : "arena_1v1"
-        },
-        {
-          "name" :"2v2",
-          "identifier" : "arena_2v2"
-        },
-        {
-          "name" :"2v2",
-          "identifier" : "arena_4v4"
-        }
-      ]
-    },
-    {
-      "game" : "TNTGAMES",
-      "name" : "The TNT Games",
-      "id" : 6,
-      "modes" : [
-        {
-          "modeName" : "TEAMS_NORMAL",
-          "name" : "Teams Mode",
-          "requirements" : {
-            "unavailable" : true
-          }
-        },
-        {
-          "modeName" : "PVPRUN",
-          "name" : "PVP Run",
-          "identifier" : "tnt_pvprun"
-        },
-        {
-          "modeName" : "TNTAG",
-          "name" : "TNT Tag",
-          "identifier" : "tnt_tntag"
-        },
-        {
-          "modeName" : "TNTRUN_TOURNEY",
-          "name" : "TNT Run Tourney",
-          "identifier" : "tnt_tntrun_tourney",
-          "requirements" : {
+          "modeName": "wool_wars_two_four_tourney",
+          "name": "4v4 (Tournament)",
+          "identifier": "wool_wool_wars_two_four_tourney",
+          "requirements": {
             "tournament": true
           }
         },
         {
-          "modeName" : "TNTRUN",
-          "name" : "TNT Run",
-          "identifier" : "tnt_tntrun"
-        },
-        {
-          "modeName" : "BOWSPLEEF",
-          "name" : "Bow Spleef",
-          "identifier" : "tnt_bowspleef"
-        },
-        {
-          "modeName" : "CAPTURE",
-          "name" : "Wizards",
-          "identifier" : "tnt_capture"
+          "modeName": "wool_wool_wars_two_four",
+          "name": "Wool Wars",
+          "identifier": "wool_wool_wars_two_four"
         }
       ]
     },
     {
-      "game" : "WALLS",
-      "name" : "Walls",
-      "id" : 3,
-      "modes" : [
+      "game": "SURVIVAL_GAMES",
+      "name": "Blitz Survival Games",
+      "id": 5,
+      "modes": [
         {
-          "name" : "Walls",
-          "identifier" : "walls"
+          "name": "Solo",
+          "identifier": "blitz_solo_normal"
+        },
+        {
+          "name": "Teams",
+          "identifier": "blitz_teams_normal"
         }
       ]
     },
     {
-      "game" : "SKYWARS",
-      "name" : "SkyWars",
-      "id" : 51,
-      "modes" : [
+      "game": "BATTLEGROUND",
+      "name": "Warlords",
+      "id": 23,
+      "modes": [
         {
-          "modeName" : "solo_insane_lucky",
-          "name" : "Solo Lucky Block",
-          "identifier" : "solo_insane_lucky"
+          "modeName": "DOM",
+          "name": "Domination",
+          "identifier": "warlords_domination"
         },
         {
-          "modeName" : "solo_insane_slime",
-          "name" : "Solo Slime",
-          "identifier" : "solo_insane_slime",
-          "requirements" : {
-            "unavailable" : true
-          }
+          "modeName": "CTF",
+          "name": "Capture the Flag",
+          "identifier": "warlords_ctf_mini"
         },
         {
-          "modeName" : "teams_insane_slime",
-          "name" : "Teams Slime",
-          "identifier" : "teams_insane_slime",
-          "requirements" : {
-            "unavailable" : true
-          }
-        },
-        {
-          "modeName" : "teams_insane_rush",
-          "name" : "Teams Rush",
-          "identifier" : "teams_insane_rush",
-          "requirements" : {
-            "unavailable" : true
-          }
-        },
-        {
-          "modeName" : "teams_insane_lucky",
-          "name" : "Teams Lucky Block",
-          "identifier" : "teams_insane_lucky"
-        },
-        {
-          "modeName" : "solo_normal",
-          "name" : "Solo Normal",
-          "identifier" : "solo_normal"
-        },
-        {
-          "modeName" : "teams_insane",
-          "name" : "Teams Insane",
-          "identifier" : "teams_insane"
-        },
-        {
-          "modeName" : "solo_insane_hunters_vs_beasts",
-          "name" : "Solo Hunters vs Beasts",
-          "identifier" : "solo_insane_hunters_vs_beasts",
-          "requirements" : {
-            "unavailable" : true
-          }
-        },
-        {
-          "modeName" : "ranked_normal",
-          "name" : "Ranked",
-          "identifier" : "ranked_normal",
-          "requirements" : {
-            "unavailable" : true
-          }
-        },
-        {
-          "modeName" : "solo_insane_tnt_madness",
-          "name" : "Solo TNT Madness",
-          "identifier" : "solo_insane_tnt_madness",
-          "requirements" : {
-            "unavailable" : true
-          }
-        },
-        {
-          "modeName" : "mega_doubles",
-          "name" : "Mega Doubles",
-          "identifier" : "mega_doubles"
-        },
-        {
-          "modeName" : "solo_insane_rush",
-          "name" : "Solo Rush",
-          "identifier" : "solo_insane_rush",
-          "requirements" : {
-            "unavailable" : true
-          }
-        },
-        {
-          "modeName" : "solo_insane",
-          "name" : "Solo Insane",
-          "identifier" : "solo_insane"
-        },
-        {
-          "modeName" : "teams_insane_tnt_madness",
-          "name" : "Teams TNT Madness",
-          "identifier" : "teams_insane_tnt_madness",
-          "requirements" : {
-            "unavailable" : true
-          }
-        },
-        {
-          "modeName" : "teams_normal",
-          "name" : "Teams Normal",
-          "identifier" : "teams_normal"
-        },
-        {
-          "modeName" : "mega_normal",
-          "name" : "Mega",
-          "identifier" : "mega_normal"
+          "modeName": "TDM",
+          "name": "Team Deathmatch",
+          "identifier": "warlords_team_deathmatch"
         }
       ]
     },
     {
-      "game" : "VAMPIREZ",
-      "name" : "VampireZ",
-      "id" : 7,
-      "modes" : [
+      "game": "MURDER_MYSTERY",
+      "name": "Murder Mystery",
+      "id": 59,
+      "modes": [
         {
-          "modeName" : "VAMPIREZ",
-          "name" : "VampireZ",
-          "identifier" : "vampirez"
+          "modeName": "MURDER_DOUBLE_UP",
+          "name": "Double Up",
+          "identifier": "murder_double_up"
+        },
+        {
+          "modeName": "MURDER_INFECTION",
+          "name": "Infection",
+          "identifier": "murder_infection"
+        },
+        {
+          "modeName": "MURDER_ASSASSINS",
+          "name": "Assassins",
+          "identifier": "murder_assassins"
+        },
+        {
+          "modeName": "MURDER_CLASSIC",
+          "name": "Classic",
+          "identifier": "murder_classic"
         }
       ]
     },
     {
-      "game" : "PROTOTYPE",
-      "name" : "Prototype",
-      "id" : 57,
-      "modes" : [
+      "game": "ARCADE",
+      "name": "Arcade",
+      "id": 14,
+      "modes": [
+      ]
+    },
+    {
+      "game": "ARENA",
+      "name": "Arena",
+      "id": 17,
+      "modes": [
         {
-          "modeName" : "SHEEPWARS_TWO_SIX",
-          "name" : "Sheep Wars"
+          "name": "1v1",
+          "identifier": "arena_1v1"
+        },
+        {
+          "name": "2v2",
+          "identifier": "arena_2v2"
+        },
+        {
+          "name": "2v2",
+          "identifier": "arena_4v4"
         }
       ]
     },
     {
-      "game" : "WALLS3",
-      "name" : "Mega Walls",
-      "id" : 13,
-      "modes" : [
+      "game": "TNTGAMES",
+      "name": "The TNT Games",
+      "id": 6,
+      "modes": [
         {
-          "modeName" : "standard",
-          "name" : "Standard",
-          "identifier" : "mw_standard"
+          "modeName": "TEAMS_NORMAL",
+          "name": "Teams Mode",
+          "requirements": {
+            "unavailable": true
+          }
         },
         {
-          "modeName" : "face_off",
-          "name" : "Face Off",
-          "identifier" : "mw_face_off"
+          "modeName": "PVPRUN",
+          "name": "PVP Run",
+          "identifier": "tnt_pvprun"
+        },
+        {
+          "modeName": "TNTAG",
+          "name": "TNT Tag",
+          "identifier": "tnt_tntag"
+        },
+        {
+          "modeName": "TNTRUN_TOURNEY",
+          "name": "TNT Run Tourney",
+          "identifier": "tnt_tntrun_tourney",
+          "requirements": {
+            "tournament": true
+          }
+        },
+        {
+          "modeName": "TNTRUN",
+          "name": "TNT Run",
+          "identifier": "tnt_tntrun"
+        },
+        {
+          "modeName": "BOWSPLEEF",
+          "name": "Bow Spleef",
+          "identifier": "tnt_bowspleef"
+        },
+        {
+          "modeName": "CAPTURE",
+          "name": "Wizards",
+          "identifier": "tnt_capture"
         }
       ]
     },
     {
-      "game" : "BEDWARS",
-      "name" : "Bedwars",
-      "id" : 58,
-      "modes" : [
+      "game": "WALLS",
+      "name": "Walls",
+      "id": 3,
+      "modes": [
         {
-          "modeName" : "BEDWARS_TWO_FOUR",
-          "name" : "4v4"
+          "name": "Walls",
+          "identifier": "walls"
+        }
+      ]
+    },
+    {
+      "game": "SKYWARS",
+      "name": "SkyWars",
+      "id": 51,
+      "modes": [
+        {
+          "modeName": "solo_insane_lucky",
+          "name": "Solo Lucky Block",
+          "identifier": "solo_insane_lucky"
         },
         {
-          "modeName" : "BEDWARS_EIGHT_ONE",
-          "name" : "Solo"
+          "modeName": "solo_insane_slime",
+          "name": "Solo Slime",
+          "identifier": "solo_insane_slime",
+          "requirements": {
+            "unavailable": true
+          }
         },
         {
-          "modeName" : "BEDWARS_FOUR_FOUR_RUSH",
-          "name" : "Rush 4v4v4v4"
+          "modeName": "teams_insane_slime",
+          "name": "Teams Slime",
+          "identifier": "teams_insane_slime",
+          "requirements": {
+            "unavailable": true
+          }
         },
         {
-          "modeName" : "BEDWARS_EIGHT_TWO_RUSH",
-          "name" : "Rush Doubles"
+          "modeName": "teams_insane_rush",
+          "name": "Teams Rush",
+          "identifier": "teams_insane_rush",
+          "requirements": {
+            "unavailable": true
+          }
         },
         {
-          "modeName" : "BEDWARS_EIGHT_TWO_VOIDLESS",
-          "name" : "Voidless Doubles"
+          "modeName": "teams_insane_lucky",
+          "name": "Teams Lucky Block",
+          "identifier": "teams_insane_lucky"
         },
         {
-          "modeName" : "BEDWARS_FOUR_FOUR_ARMED",
-          "name" : "Armed 4v4v4v4"
+          "modeName": "solo_normal",
+          "name": "Solo Normal",
+          "identifier": "solo_normal"
         },
         {
-          "modeName" : "BEDWARS_EIGHT_TWO_ARMED",
-          "name" : "Armed Doubles"
+          "modeName": "teams_insane",
+          "name": "Teams Insane",
+          "identifier": "teams_insane"
         },
         {
-          "modeName" : "BEDWARS_EIGHT_TWO_UNDERWORLD",
-          "name" : "Underworld Doubles"
+          "modeName": "solo_insane_hunters_vs_beasts",
+          "name": "Solo Hunters vs Beasts",
+          "identifier": "solo_insane_hunters_vs_beasts",
+          "requirements": {
+            "unavailable": true
+          }
         },
         {
-          "modeName" : "BEDWARS_EIGHT_TWO_SWAP",
-          "name" : "Swappage Doubles"
+          "modeName": "ranked_normal",
+          "name": "Ranked",
+          "identifier": "ranked_normal",
+          "requirements": {
+            "unavailable": true
+          }
         },
         {
-          "modeName" : "BEDWARS_EIGHT_TWO",
-          "name" : "Doubles"
+          "modeName": "solo_insane_tnt_madness",
+          "name": "Solo TNT Madness",
+          "identifier": "solo_insane_tnt_madness",
+          "requirements": {
+            "unavailable": true
+          }
         },
         {
-          "modeName" : "BEDWARS_FOUR_FOUR",
-          "name" : "4v4v4v4"
+          "modeName": "mega_doubles",
+          "name": "Mega Doubles",
+          "identifier": "mega_doubles"
         },
         {
-          "modeName" : "BEDWARS_FOUR_FOUR_UNDERWORLD",
-          "name" : "Underworld 4v4v4v4"
+          "modeName": "solo_insane_rush",
+          "name": "Solo Rush",
+          "identifier": "solo_insane_rush",
+          "requirements": {
+            "unavailable": true
+          }
         },
         {
-          "modeName" : "BEDWARS_EIGHT_ONE_RUSH",
-          "name" : "Rush Solo"
+          "modeName": "solo_insane",
+          "name": "Solo Insane",
+          "identifier": "solo_insane"
         },
         {
-          "modeName" : "BEDWARS_FOUR_FOUR_ULTIMATE",
-          "name" : "Ultimate 4v4v4v4"
+          "modeName": "teams_insane_tnt_madness",
+          "name": "Teams TNT Madness",
+          "identifier": "teams_insane_tnt_madness",
+          "requirements": {
+            "unavailable": true
+          }
         },
         {
-          "modeName" : "BEDWARS_EIGHT_TWO_LUCKY",
-          "name" : "Lucky Doubles"
+          "modeName": "teams_normal",
+          "name": "Teams Normal",
+          "identifier": "teams_normal"
         },
         {
-          "modeName" : "BEDWARS_FOUR_FOUR_SWAP",
-          "name" : "Swappage 4v4v4v4"
+          "modeName": "mega_normal",
+          "name": "Mega",
+          "identifier": "mega_normal"
+        }
+      ]
+    },
+    {
+      "game": "VAMPIREZ",
+      "name": "VampireZ",
+      "id": 7,
+      "modes": [
+        {
+          "modeName": "VAMPIREZ",
+          "name": "VampireZ",
+          "identifier": "vampirez"
+        }
+      ]
+    },
+    {
+      "game": "PROTOTYPE",
+      "name": "Prototype",
+      "id": 57,
+      "modes": [
+        {
+          "modeName": "SHEEPWARS_TWO_SIX",
+          "name": "Sheep Wars"
+        }
+      ]
+    },
+    {
+      "game": "WALLS3",
+      "name": "Mega Walls",
+      "id": 13,
+      "modes": [
+        {
+          "modeName": "standard",
+          "name": "Standard",
+          "identifier": "mw_standard"
         },
         {
-          "modeName" : "BEDWARS_FOUR_THREE",
-          "name" : "3v3v3v3"
+          "modeName": "face_off",
+          "name": "Face Off",
+          "identifier": "mw_face_off"
+        }
+      ]
+    },
+    {
+      "game": "BEDWARS",
+      "name": "Bedwars",
+      "id": 58,
+      "modes": [
+        {
+          "modeName": "BEDWARS_TWO_FOUR",
+          "name": "4v4"
         },
         {
-          "modeName" : "BEDWARS_FOUR_FOUR_VOIDLESS",
-          "name" : "Voidless 4v4v4v4"
+          "modeName": "BEDWARS_EIGHT_ONE",
+          "name": "Solo"
         },
         {
-          "modeName" : "BEDWARS_FOUR_FOUR_LUCKY",
-          "name" : "Lucky 4v4v4v4"
+          "modeName": "BEDWARS_FOUR_FOUR_RUSH",
+          "name": "Rush 4v4v4v4"
         },
         {
-          "modeName" : "BEDWARS_CASTLE",
-          "name" : "Castle"
+          "modeName": "BEDWARS_EIGHT_TWO_RUSH",
+          "name": "Rush Doubles"
         },
         {
-          "modeName" : "BEDWARS_EIGHT_ONE_ULTIMATE",
-          "name" : "Ultimate Solo"
+          "modeName": "BEDWARS_EIGHT_TWO_VOIDLESS",
+          "name": "Voidless Doubles"
         },
         {
-          "modeName" : "BEDWARS_EIGHT_TWO_TOURNEY",
-          "name" : "Doubles (Tourney)"
+          "modeName": "BEDWARS_FOUR_FOUR_ARMED",
+          "name": "Armed 4v4v4v4"
         },
         {
-          "modeName" : "BEDWARS_EIGHT_TWO_ULTIMATE",
-          "name" : "Ultimate Doubles"
+          "modeName": "BEDWARS_EIGHT_TWO_ARMED",
+          "name": "Armed Doubles"
+        },
+        {
+          "modeName": "BEDWARS_EIGHT_TWO_UNDERWORLD",
+          "name": "Underworld Doubles"
+        },
+        {
+          "modeName": "BEDWARS_EIGHT_TWO_SWAP",
+          "name": "Swappage Doubles"
+        },
+        {
+          "modeName": "BEDWARS_EIGHT_TWO",
+          "name": "Doubles"
+        },
+        {
+          "modeName": "BEDWARS_FOUR_FOUR",
+          "name": "4v4v4v4"
+        },
+        {
+          "modeName": "BEDWARS_FOUR_FOUR_UNDERWORLD",
+          "name": "Underworld 4v4v4v4"
+        },
+        {
+          "modeName": "BEDWARS_EIGHT_ONE_RUSH",
+          "name": "Rush Solo"
+        },
+        {
+          "modeName": "BEDWARS_FOUR_FOUR_ULTIMATE",
+          "name": "Ultimate 4v4v4v4"
+        },
+        {
+          "modeName": "BEDWARS_EIGHT_TWO_LUCKY",
+          "name": "Lucky Doubles"
+        },
+        {
+          "modeName": "BEDWARS_FOUR_FOUR_SWAP",
+          "name": "Swappage 4v4v4v4"
+        },
+        {
+          "modeName": "BEDWARS_FOUR_THREE",
+          "name": "3v3v3v3"
+        },
+        {
+          "modeName": "BEDWARS_FOUR_FOUR_VOIDLESS",
+          "name": "Voidless 4v4v4v4"
+        },
+        {
+          "modeName": "BEDWARS_FOUR_FOUR_LUCKY",
+          "name": "Lucky 4v4v4v4"
+        },
+        {
+          "modeName": "BEDWARS_CASTLE",
+          "name": "Castle"
+        },
+        {
+          "modeName": "BEDWARS_EIGHT_ONE_ULTIMATE",
+          "name": "Ultimate Solo"
+        },
+        {
+          "modeName": "BEDWARS_EIGHT_TWO_TOURNEY",
+          "name": "Doubles (Tourney)"
+        },
+        {
+          "modeName": "BEDWARS_EIGHT_TWO_ULTIMATE",
+          "name": "Ultimate Doubles"
         }
       ]
     }
