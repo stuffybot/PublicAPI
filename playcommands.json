@@ -861,6 +861,53 @@
           "name": "Ultimate Doubles"
         }
       ]
+    },
+    {
+      "game" : "PAINTBALL",
+      "name" : "Paintball",
+      "id" : 4,
+      "modes" : [
+        {
+          "modeName" : "PAINTBALL",
+          "name" : "Paintball",
+          "identifier" : "paintball"
+        }
+      ]
+    },
+    {
+      "game" : "SUPER_SMASH",
+      "name" : "Smash Heroes",
+      "id" : 24,
+      "modes" : [
+        {
+          "modeName" : "solo_normal",
+          "name" : "Solo",
+          "identifier" : "super_smash_solo_normal"
+        },
+        {
+          "modeName" : "friends_normal",
+          "name" : "Friends",
+          "identifier" : "super_smash_friends_normal",
+          "requirements" : {
+            "minPartySize" : 4
+          }
+        },
+        {
+          "modeName" : "teams_normal",
+          "name" : "Team",
+          "identifier" : "super_smash_teams_normal"
+        },
+        {
+          "modeName" : "2v2_normal",
+          "name" : "2v2",
+          "identifier" : "super_smash_2v2_normal"
+        },
+        {
+          "modeName" : "1v1_normal",
+          "name" : "1v1",
+          "identifier" : "super_smash_1v1_normal"
+        }
+      ]
     }
   ]
 }
