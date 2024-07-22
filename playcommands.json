@@ -127,7 +127,14 @@
     {
       "game" : "LEGACY",
       "name" : "Classic Games",
-      "id" : 56
+      "id" : 56,
+      "modes" : [
+        {
+          "requirements" : {
+            "unavailable" : true
+          }
+        }
+      ]
     },
     {
       "game" : "SKYBLOCK",
