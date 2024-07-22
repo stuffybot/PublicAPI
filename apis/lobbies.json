@@ -1,5 +1,5 @@
 {
-  "success" : true,
+  "lastUpdated" : 1721632602,
   "roots" : [
     "/l",
     "/lobby"
@@ -8,10 +8,10 @@
     {
       "game" : "MAIN",
       "name" : "Main",
-      "identifier" : "",
       "aliases" : [
         "main",
-        "lobby"
+        "lobby",
+        "pit"
       ]
     },
     {
