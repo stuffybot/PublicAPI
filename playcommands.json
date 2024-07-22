@@ -397,7 +397,7 @@
         },
         {
           "modeName": "GRINCH_SIMULATOR_V2",
-          "name": "Grinch Simulator v2",
+          "name": "Grinch Simulator",
           "identifier": "arcade_grinch_simulator_v2",
           "requirements": {
             "seasonal": true
@@ -725,7 +725,7 @@
         },
         {
           "modeName": "TOWERWARS_SOLO",
-          "name": "Towerwars",
+          "name": "Towerwars - Solo",
           "requirements": {
             "unavailable": true
           }
@@ -739,7 +739,7 @@
         },
         {
           "modeName": "TOWERWARS_TEAM_OF_TWO",
-          "name": "Towerwars Team of two",
+          "name": "Towerwars - Teams of two",
           "requirements": {
             "unavailable": true
           }
@@ -983,167 +983,179 @@
         {
           "modeName" : "DUELS_BOWSPLEEF_DUEL",
           "name" : "Bow Spleef Duel",
-          "identifier" : "null"
+          "identifier" : "duels_bowspleef_duel"
         },
         {
           "modeName" : "DUELS_BOW_DUEL",
           "name" : "Bow Duel",
-          "identifier" : "null"
+          "identifier" : "duels_bow_duel"
         },
         {
           "modeName" : "DUELS_MW_DUEL",
           "name" : "MegaWalls Duel",
-          "identifier" : "null"
+          "identifier" : "duels_mw_duel"
         },
         {
           "modeName" : "DUELS_UHC_FOUR",
           "name" : "UHC Teams",
-          "identifier" : "null"
+          "identifier" : "duels_uhc_four"
         },
         {
           "modeName" : "DUELS_UHC_MEETUP",
           "name" : "UHC Deathmatch",
-          "identifier" : "null"
+          "identifier" : "duels_uhc_meetup"
         },
         {
           "modeName" : "DUELS_SW_DOUBLES",
           "name" : "SkyWars Doubles",
-          "identifier" : "null"
+          "identifier" : "duels_sw_doubles"
         },
         {
           "modeName" : "DUELS_UHC_DOUBLES",
           "name" : "UHC Doubles",
-          "identifier" : "null"
+          "identifier" : "duels_uhc_doubles"
         },
         {
           "modeName" : "DUELS_SW_FOUR",
           "name" : "SkyWars Teams",
-          "identifier" : "null"
+          "requirements" : {
+            "unavailable" : true
+          }
         },
         {
           "modeName" : "DUELS_BRIDGE_FOUR",
           "name" : "The Bridge Teams",
-          "identifier" : "null"
+          "identifier" : "duels_bridge_four"
         },
         {
           "modeName" : "DUELS_SUMO_DUEL",
           "name" : "Sumo Duel",
-          "identifier" : "null"
+          "identifier" : "duels_sumo_duel"
         },
         {
           "modeName" : "DUELS_BRIDGE_THREES",
           "name" : "Bridge 3v3",
-          "identifier" : "null"
+          "identifier" : "duels_bridge_threes"
         },
         {
           "modeName" : "DUELS_OP_DUEL",
           "name" : "OP Duel",
-          "identifier" : "null"
+          "identifier" : "duels_op_duel"
         },
         {
           "modeName" : "DUELS_MW_DOUBLES",
           "name" : "MegaWalls Doubles",
-          "identifier" : "null"
+          "identifier" : "duels_mw_doubles"
         },
         {
           "modeName" : "DUELS_SUMO_TOURNAMENT",
           "name" : "Sumo Championship",
-          "identifier" : "null"
+          "requirements" : {
+            "unavailable" : true
+          }
         },
         {
           "modeName" : "DUELS_DUEL_ARENA",
           "name" : "Duel Arena",
-          "identifier" : "null"
+          "identifier" : "duels_duel_arena"
         },
         {
           "modeName" : "DUELS_COMBO_DUEL",
           "name" : "Combo Duel",
-          "identifier" : "null"
+          "identifier" : "duels_combo_duel"
         },
         {
           "modeName" : "DUELS_BRIDGE_2V2V2V2",
           "name" : "The Bridge 2v2v2v2",
-          "identifier" : "null"
+          "identifier" : "duels_bridge_2v2v2v2"
         },
         {
           "modeName" : "DUELS_BRIDGE_DOUBLES",
           "name" : "The Bridge Doubles",
-          "identifier" : "null"
+          "identifier" : "duels_bridge_doubles"
         },
         {
           "modeName" : "DUELS_BRIDGE_TOURNAMENT",
           "name" : "The Bridge Championship",
-          "identifier" : "null"
+          "requirements" : {
+            "unavailable" : true
+          }
         },
         {
           "modeName" : "DUELS_BOXING_DUEL",
-          "name" : "Bozing Duel",
-          "identifier" : "null"
+          "name" : "Boxing Duel",
+          "identifier" : "duels_boxing_duel"
         },
         {
           "modeName" : "DUELS_UHC_DUEL",
           "name" : "UHC Duel",
-          "identifier" : "null"
+          "identifier" : "duels_uhc_duel"
         },
         {
           "modeName" : "DUELS_BRIDGE_3V3V3V3",
           "name" : "The Bridge 3v3v3v3",
-          "identifier" : "null"
+          "identifier" : "duels_bridge_3v3v3v3"
         },
         {
           "modeName" : "DUELS_UHC_TOURNAMENT",
           "name" : "UHC Championship",
-          "identifier" : "null"
+          "requirements" : {
+            "unavailable" : true
+          }
         },
         {
           "modeName" : "DUELS_OP_DOUBLES",
           "name" : "OP Doubles",
-          "identifier" : "null"
+          "identifier" : "duels_op_doubles"
         },
         {
           "modeName" : "DUELS_PARKOUR_EIGHT",
           "name" : "Parkour",
-          "identifier" : "null"
+          "identifier" : "duels_parkour_eight"
         },
         {
           "modeName" : "DUELS_CAPTURE_THREES",
           "name" : "Bridge CTF 3v3",
-          "identifier" : "null"
+          "identifier" : "duels_capture_threes"
         },
         {
           "modeName" : "DUELS_BLITZ_DUEL",
           "name" : "Blitz Duel",
-          "identifier" : "null"
+          "identifier" : "duels_blitz_duel"
         },
         {
           "modeName" : "DUELS_MW_FOUR",
           "name" : "MegaWalls Teams",
-          "identifier" : "null"
+          "requirements" : {
+            "unavailable" : true
+          }
         },
         {
           "modeName" : "DUELS_CLASSIC_DUEL",
           "name" : "Classic Duel",
-          "identifier" : "null"
+          "identifier" : "duels_classic_duel"
         },
         {
           "modeName" : "DUELS_POTION_DUEL",
           "name" : "NoDebuff Duel",
-          "identifier" : "null"
+          "identifier" : "duels_potion_duel"
         },
         {
           "modeName" : "DUELS_BRIDGE_DUEL",
           "name" : "The Bridge Duel",
-          "identifier" : "null"
+          "identifier" : "duels_bridge_duel"
         },
         {
           "modeName" : "DUELS_SW_TOURNAMENT",
           "name" : "SkyWars Championship",
-          "identifier" : "null"
+          "requirements" : {
+            "unavailable" : true
+          }
         },
         {
           "modeName" : "DUELS_SW_DUEL",
-          "name" : "DUELS_SW_DUEL",
-          "identifier" : "null"
+          "name" : "SkyWars Duel",
+          "identifier" : "duels_sw_duel"
         }
       ]
     },
