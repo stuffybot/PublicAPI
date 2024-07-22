@@ -8,10 +8,10 @@ This API can be used by any projects or mods that may have use for any of it's d
 
 | Endpoint | Link | Description |
 | - | - | - |
-| Stuffy Bot Statistics | [bot](https://raw.githubusercontent.com/stuffybot/PublicAPI/main/bot.json) | Stats for the operation of Stuffy Bot, total commands run, etc. |
-| Hypixel Tournaments | [tournaments](https://raw.githubusercontent.com/stuffybot/PublicAPI/main/tournaments.json) | Data on all historical hypixel tournaments, start and end times in Unix, and json objects for where stats are located in the Hypixel API |
-| Play Commands | [playcommands](https://raw.githubusercontent.com/stuffybot/PublicAPI/main/playcommands.json) | All known play commands and aliases for Hypixel, constantly updating. Can also be used as a more complete resources endpoint than [Hypixel](https://api.hypixel.net/v2/resources/games)'s |
-| Lobby Commands | [lobbies](https://raw.githubusercontent.com/stuffybot/PublicAPI/main/lobbies.json) | All known lobby commands and aliases for Hypixel, constantly updating. |
+| Stuffy Bot Statistics | [bot](https://raw.githubusercontent.com/stuffybot/PublicAPI/main/apis/bot.json) | Stats for the operation of Stuffy Bot, total commands run, etc. |
+| Hypixel Tournaments | [tournaments](https://raw.githubusercontent.com/stuffybot/PublicAPI/main/apis/tournaments.json) | Data on all historical hypixel tournaments, start and end times in Unix, and json objects for where stats are located in the Hypixel API |
+| Play Commands | [playcommands](https://raw.githubusercontent.com/stuffybot/PublicAPI/main/apis/playcommands.json) | All known play commands and aliases for Hypixel, constantly updating. Can also be used as a more complete resources endpoint than [Hypixel](https://api.hypixel.net/v2/resources/games)'s |
+| Lobby Commands | [lobbies](https://raw.githubusercontent.com/stuffybot/PublicAPI/main/apis/lobbies.json) | All known lobby commands and aliases for Hypixel, constantly updating. |
 
 ## Contributing
 
