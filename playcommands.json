@@ -708,6 +708,41 @@
         {
           "modeName": "SHEEPWARS_TWO_SIX",
           "name": "Sheep Wars"
+        },
+        {
+          "modeName" : "PIXEL_PARTY",
+          "name" : "Pixel Party",
+          "requirements": {
+            "unavailable": true
+          }
+        },
+        {
+          "modeName" : "INVADERS",
+          "name" : "Invaders",
+          "requirements": {
+            "unavailable": true
+          }
+        },
+        {
+          "modeName" : "TOWERWARS_SOLO",
+          "name" : "Towerwars",
+          "requirements": {
+            "unavailable": true
+          }
+        },
+        {
+          "modeName" : "WOOL_WARS",
+          "name" : "Wool Wars",
+          "requirements": {
+            "unavailable": true
+          }
+        },
+        {
+          "modeName" : "TOWERWARS_TEAMS_OF_TWO",
+          "name" : "Towerwars Teams",
+          "requirements": {
+            "unavailable": true
+          }
         }
       ]
     },
