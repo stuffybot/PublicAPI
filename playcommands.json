@@ -738,8 +738,8 @@
           }
         },
         {
-          "modeName" : "TOWERWARS_TEAMS_OF_TWO",
-          "name" : "Towerwars Teams",
+          "modeName" : "TOWERWARS_TEAM_OF_TWO",
+          "name" : "Towerwars Team of two",
           "requirements": {
             "unavailable": true
           }
