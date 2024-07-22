@@ -358,27 +358,145 @@
         {
           "modeName" : "ONEINTHEQUIVER",
           "name" : "Bounty Hunters",
-          "identifier" : ""
+          "identifier" : "arcade_bounty_hunters"
         },
         {
           "modeName" : "SOCCER",
           "name" : "Football",
-          "identifier" : ""
+          "identifier" : "arcade_soccer"
         },
         {
           "modeName" : "SIMON_SAYS",
           "name" : "Hypixel Says",
-          "identifier" : ""
+          "identifier" : "arcade_simon_says"
         },
         {
-          "modeName" : "SOCCER",
-          "name" : "Football",
-          "identifier" : ""
+          "modeName" : "PVP_CTW",
+          "name" : "Capture the Wool",
+          "identifier" : "arcade_pvp_ctw"
         },
         {
-          "modeName" : "SOCCER",
-          "name" : "Football",
-          "identifier" : ""
+          "modeName" : "ENDER",
+          "name" : "Ender Spleef",
+          "identifier" : "arcade_ender_spleef"
+        },
+        {
+          "modeName" : "STARWARS",
+          "name" : "Galaxy Wars",
+          "identifier" : "arcade_starwars"
+        },
+        {
+          "modeName" : "DRAGONWARS2",
+          "name" : "Dragon Wars",
+          "identifier" : "arcade_dragon_wars"
+        },
+        {
+          "modeName" : "DAYONE",
+          "name" : "Blocking Dead",
+          "identifier" : "arcade_day_one"
+        },
+        {
+          "modeName" : "GRINCH_SIMULATOR_V2",
+          "name" : "Grinch Simulator v2",
+          "identifier" : "arcade_grinch_simulator_v2",
+          "requirements" : {
+            "seasonal" : true
+          }
+        },
+        {
+          "modeName" : "DRAW_THEIR_THING",
+          "name" : "Pixel Painters",
+          "identifier" : "arcade_pixel_painters"
+        },
+        {
+          "modeName" : "HOLE_IN_THE_WALL",
+          "name" : "Hole In The Wall",
+          "identifier" : "arcade_hole_in_the_wall"
+        },
+        {
+          "modeName" : "THROW_OUT",
+          "name" : "Throw Out",
+          "identifier" : "arcade_throw_out"
+        },
+        {
+          "modeName" : "DEFENDER",
+          "name" : "Creeper Attack",
+          "identifier" : "arcade_creeper_defense"
+        },
+        {
+          "modeName" : "FARM_HUNT",
+          "name" : "Farm Hunt",
+          "identifier" : "arcade_farm_hunt"
+        },
+        {
+          "modeName" : "ZOMBIES_DEAD_END",
+          "name" : "Zombies",
+          "identifier" : "arcade_zombies_dead_end"
+        },
+        {
+          "modeName" : "ZOMBIES_BAD_BLOOD",
+          "name" : "Zombies",
+          "identifier" : "arcade_zombies_bad_blood"
+        },
+        {
+          "modeName" : "ZOMBIES_ALIEN_ARCADIUM",
+          "name" : "Zombies",
+          "identifier" : "arcade_zombies_alien_arcadium"
+        },
+        {
+          "modeName" : "HIDE_AND_SEEK_PROP_HUNT",
+          "name" : "Hide and Seek Prop Hunt",
+          "identifier" : "arcade_hide_and_seek_prop_hunt"
+        },
+        {
+          "modeName" : "HIDE_AND_SEEK_PARTY_POOPER",
+          "name" : "Hide and Seek Party Pooper",
+          "identifier" : "arcade_hide_and_seek_party_pooper"
+        },
+        {
+          "modeName" : "EASTER_SIMULATOR",
+          "name" : "Easter Simulator",
+          "identifier" : "arcade_easter_simulator",
+          "requirements" : {
+            "seasonal" : true
+          }
+        },
+        {
+          "modeName" : "MINI_WALLS",
+          "name" : "Mini Walls",
+          "identifier" : "arcade_mini_walls"
+        },
+        {
+          "modeName" : "HALLOWEEN_SIMULATOR",
+          "name" : "Halloween Simulator",
+          "identifier" : "arcade_halloween_simulator",
+          "requirements" : {
+            "seasonal" : true
+          }
+        },
+        {
+          "modeName" : "SCUBA_SIMULATOR",
+          "name" : "Scube Simulator",
+          "identifier" : "arcade_scuba_simulator",
+          "requirements" : {
+            "seasonal" : true,
+            "unavailable" : true
+          }
+        },
+        {
+          "modeName" : "PIXEL_PARTY",
+          "name" : "Pixel Party",
+          "identifier" : "arcade_pixel_party"
+        },
+        {
+          "modeName" : "DROPPER",
+          "name" : "Dropper",
+          "identifier" : "arcade_dropper"
+        },
+        {
+          "modeName" : "ZOMBIES_PRISON",
+          "name" : "Zombies",
+          "identifier" : "arcade_zombies_prison"
         }
       ]
     },
