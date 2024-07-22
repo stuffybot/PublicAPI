@@ -350,11 +350,41 @@
       "name": "Arcade",
       "id": 14,
       "modes": [
+        {
+          "modeName" : "PARTY",
+          "name" : "Party Games",
+          "identifier" : "arcade_party_games_1"
+        },
+        {
+          "modeName" : "ONEINTHEQUIVER",
+          "name" : "Bounty Hunters",
+          "identifier" : ""
+        },
+        {
+          "modeName" : "SOCCER",
+          "name" : "Football",
+          "identifier" : ""
+        },
+        {
+          "modeName" : "SIMON_SAYS",
+          "name" : "Hypixel Says",
+          "identifier" : ""
+        },
+        {
+          "modeName" : "SOCCER",
+          "name" : "Football",
+          "identifier" : ""
+        },
+        {
+          "modeName" : "SOCCER",
+          "name" : "Football",
+          "identifier" : ""
+        }
       ]
     },
     {
       "game": "ARENA",
-      "name": "Arena",
+      "name": "Arena Brawl",
       "id": 17,
       "modes": [
         {
@@ -582,7 +612,7 @@
     },
     {
       "game": "BEDWARS",
-      "name": "Bedwars",
+      "name": "Bed Wars",
       "id": 58,
       "modes": [
         {
