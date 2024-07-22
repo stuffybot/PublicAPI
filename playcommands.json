@@ -62,7 +62,7 @@
           }
         },
         {
-          "modeName" : "BUILD_BATTLE_SOLO_NORMAL_LATEST ",
+          "modeName" : "BUILD_BATTLE_SOLO_NORMAL_LATEST",
           "name" : "Solo (1.14+)",
           "identifier" : "build_battle_solo_normal_latest",
           "requirements" : {
@@ -125,6 +125,11 @@
       ]
     },
     {
+      "game" : "LEGACY",
+      "name" : "Classic Games",
+      "id" : 56
+    },
+    {
       "game" : "SKYBLOCK",
       "name" : "SkyBlock",
       "id" : 63,
@@ -135,6 +140,77 @@
           "aliases" : [
             "sb"
           ]
+        },
+        {
+          "modeName" : "farming_1",
+          "name" : "The Farming Islands"
+        },
+        {
+          "modeName" : "crystal_hollows",
+          "name" : "Crystal Hollows"
+        },
+        {
+          "modeName" : "winter",
+          "name" : "Jerry's Workshop"
+        },
+        {
+          "modeName" : "foraging_1",
+          "name" : "The Park"
+        },
+        {
+          "modeName" : "dark_auction",
+          "name" : "Dark Auction"
+        },
+        {
+          "modeName" : "dungeon",
+          "name" : "Dungeons"
+        },
+        {
+          "modeName" : "combat_3",
+          "name" : "The End"
+        },
+        {
+          "modeName" : "crismon_isle",
+          "name" : "Crimson Isle"
+        },
+        {
+          "modeName" : "hub",
+          "name" : "Hub"
+        },
+        {
+          "modeName" : "instanced",
+          "name" : "Kuudra's Hollow"
+        },
+        {
+          "modeName" : "dynamic",
+          "name" : "Private Island"
+        },
+        {
+          "modeName" : "mining_3",
+          "name" : "Dwarven Mines"
+        },
+        {
+          "modeName" : "garden",
+          "name" : "The Garden"
+        },
+        {
+          "modeName" : "mining_1",
+          "name" : "Gold Mine"
+        },
+        {
+          "modeName" : "combat_2",
+          "name" : "Blazing Fortress",
+          "requirements" : {
+            "unavailable" : true
+          }
+        },
+        {
+          "modeName" : "mining_2",
+          "name" : "Deep Caverns"
+        },
+        {
+          "modeName" : "combat_1",
+          "name" : "Spider's Den"
         }
       ]
     },
