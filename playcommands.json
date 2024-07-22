@@ -222,13 +222,13 @@
       ]
     },
     {
-      "game" : "HOUSING",
-      "name" : "Housing",
-      "id" : 26,
-      "modes" : [
+      "game": "HOUSING",
+      "name": "Housing",
+      "id": 26,
+      "modes": [
         {
-          "modeName" : "HOUSING",
-          "name" : "Housing"
+          "modeName": "HOUSING",
+          "name": "Housing"
         }
       ]
     },
@@ -351,152 +351,152 @@
       "id": 14,
       "modes": [
         {
-          "modeName" : "PARTY",
-          "name" : "Party Games",
-          "identifier" : "arcade_party_games_1"
+          "modeName": "PARTY",
+          "name": "Party Games",
+          "identifier": "arcade_party_games_1"
         },
         {
-          "modeName" : "ONEINTHEQUIVER",
-          "name" : "Bounty Hunters",
-          "identifier" : "arcade_bounty_hunters"
+          "modeName": "ONEINTHEQUIVER",
+          "name": "Bounty Hunters",
+          "identifier": "arcade_bounty_hunters"
         },
         {
-          "modeName" : "SOCCER",
-          "name" : "Football",
-          "identifier" : "arcade_soccer"
+          "modeName": "SOCCER",
+          "name": "Football",
+          "identifier": "arcade_soccer"
         },
         {
-          "modeName" : "SIMON_SAYS",
-          "name" : "Hypixel Says",
-          "identifier" : "arcade_simon_says"
+          "modeName": "SIMON_SAYS",
+          "name": "Hypixel Says",
+          "identifier": "arcade_simon_says"
         },
         {
-          "modeName" : "PVP_CTW",
-          "name" : "Capture the Wool",
-          "identifier" : "arcade_pvp_ctw"
+          "modeName": "PVP_CTW",
+          "name": "Capture the Wool",
+          "identifier": "arcade_pvp_ctw"
         },
         {
-          "modeName" : "ENDER",
-          "name" : "Ender Spleef",
-          "identifier" : "arcade_ender_spleef"
+          "modeName": "ENDER",
+          "name": "Ender Spleef",
+          "identifier": "arcade_ender_spleef"
         },
         {
-          "modeName" : "STARWARS",
-          "name" : "Galaxy Wars",
-          "identifier" : "arcade_starwars"
+          "modeName": "STARWARS",
+          "name": "Galaxy Wars",
+          "identifier": "arcade_starwars"
         },
         {
-          "modeName" : "DRAGONWARS2",
-          "name" : "Dragon Wars",
-          "identifier" : "arcade_dragon_wars"
+          "modeName": "DRAGONWARS2",
+          "name": "Dragon Wars",
+          "identifier": "arcade_dragon_wars"
         },
         {
-          "modeName" : "DAYONE",
-          "name" : "Blocking Dead",
-          "identifier" : "arcade_day_one"
+          "modeName": "DAYONE",
+          "name": "Blocking Dead",
+          "identifier": "arcade_day_one"
         },
         {
-          "modeName" : "GRINCH_SIMULATOR_V2",
-          "name" : "Grinch Simulator v2",
-          "identifier" : "arcade_grinch_simulator_v2",
-          "requirements" : {
-            "seasonal" : true
+          "modeName": "GRINCH_SIMULATOR_V2",
+          "name": "Grinch Simulator v2",
+          "identifier": "arcade_grinch_simulator_v2",
+          "requirements": {
+            "seasonal": true
           }
         },
         {
-          "modeName" : "DRAW_THEIR_THING",
-          "name" : "Pixel Painters",
-          "identifier" : "arcade_pixel_painters"
+          "modeName": "DRAW_THEIR_THING",
+          "name": "Pixel Painters",
+          "identifier": "arcade_pixel_painters"
         },
         {
-          "modeName" : "HOLE_IN_THE_WALL",
-          "name" : "Hole In The Wall",
-          "identifier" : "arcade_hole_in_the_wall"
+          "modeName": "HOLE_IN_THE_WALL",
+          "name": "Hole In The Wall",
+          "identifier": "arcade_hole_in_the_wall"
         },
         {
-          "modeName" : "THROW_OUT",
-          "name" : "Throw Out",
-          "identifier" : "arcade_throw_out"
+          "modeName": "THROW_OUT",
+          "name": "Throw Out",
+          "identifier": "arcade_throw_out"
         },
         {
-          "modeName" : "DEFENDER",
-          "name" : "Creeper Attack",
-          "identifier" : "arcade_creeper_defense"
+          "modeName": "DEFENDER",
+          "name": "Creeper Attack",
+          "identifier": "arcade_creeper_defense"
         },
         {
-          "modeName" : "FARM_HUNT",
-          "name" : "Farm Hunt",
-          "identifier" : "arcade_farm_hunt"
+          "modeName": "FARM_HUNT",
+          "name": "Farm Hunt",
+          "identifier": "arcade_farm_hunt"
         },
         {
-          "modeName" : "ZOMBIES_DEAD_END",
-          "name" : "Zombies",
-          "identifier" : "arcade_zombies_dead_end"
+          "modeName": "ZOMBIES_DEAD_END",
+          "name": "Zombies",
+          "identifier": "arcade_zombies_dead_end"
         },
         {
-          "modeName" : "ZOMBIES_BAD_BLOOD",
-          "name" : "Zombies",
-          "identifier" : "arcade_zombies_bad_blood"
+          "modeName": "ZOMBIES_BAD_BLOOD",
+          "name": "Zombies",
+          "identifier": "arcade_zombies_bad_blood"
         },
         {
-          "modeName" : "ZOMBIES_ALIEN_ARCADIUM",
-          "name" : "Zombies",
-          "identifier" : "arcade_zombies_alien_arcadium"
+          "modeName": "ZOMBIES_ALIEN_ARCADIUM",
+          "name": "Zombies",
+          "identifier": "arcade_zombies_alien_arcadium"
         },
         {
-          "modeName" : "HIDE_AND_SEEK_PROP_HUNT",
-          "name" : "Hide and Seek Prop Hunt",
-          "identifier" : "arcade_hide_and_seek_prop_hunt"
+          "modeName": "HIDE_AND_SEEK_PROP_HUNT",
+          "name": "Hide and Seek Prop Hunt",
+          "identifier": "arcade_hide_and_seek_prop_hunt"
         },
         {
-          "modeName" : "HIDE_AND_SEEK_PARTY_POOPER",
-          "name" : "Hide and Seek Party Pooper",
-          "identifier" : "arcade_hide_and_seek_party_pooper"
+          "modeName": "HIDE_AND_SEEK_PARTY_POOPER",
+          "name": "Hide and Seek Party Pooper",
+          "identifier": "arcade_hide_and_seek_party_pooper"
         },
         {
-          "modeName" : "EASTER_SIMULATOR",
-          "name" : "Easter Simulator",
-          "identifier" : "arcade_easter_simulator",
-          "requirements" : {
-            "seasonal" : true
+          "modeName": "EASTER_SIMULATOR",
+          "name": "Easter Simulator",
+          "identifier": "arcade_easter_simulator",
+          "requirements": {
+            "seasonal": true
           }
         },
         {
-          "modeName" : "MINI_WALLS",
-          "name" : "Mini Walls",
-          "identifier" : "arcade_mini_walls"
+          "modeName": "MINI_WALLS",
+          "name": "Mini Walls",
+          "identifier": "arcade_mini_walls"
         },
         {
-          "modeName" : "HALLOWEEN_SIMULATOR",
-          "name" : "Halloween Simulator",
-          "identifier" : "arcade_halloween_simulator",
-          "requirements" : {
-            "seasonal" : true
+          "modeName": "HALLOWEEN_SIMULATOR",
+          "name": "Halloween Simulator",
+          "identifier": "arcade_halloween_simulator",
+          "requirements": {
+            "seasonal": true
           }
         },
         {
-          "modeName" : "SCUBA_SIMULATOR",
-          "name" : "Scube Simulator",
-          "identifier" : "arcade_scuba_simulator",
-          "requirements" : {
-            "seasonal" : true,
-            "unavailable" : true
+          "modeName": "SCUBA_SIMULATOR",
+          "name": "Scube Simulator",
+          "identifier": "arcade_scuba_simulator",
+          "requirements": {
+            "seasonal": true,
+            "unavailable": true
           }
         },
         {
-          "modeName" : "PIXEL_PARTY",
-          "name" : "Pixel Party",
-          "identifier" : "arcade_pixel_party"
+          "modeName": "PIXEL_PARTY",
+          "name": "Pixel Party",
+          "identifier": "arcade_pixel_party"
         },
         {
-          "modeName" : "DROPPER",
-          "name" : "Dropper",
-          "identifier" : "arcade_dropper"
+          "modeName": "DROPPER",
+          "name": "Dropper",
+          "identifier": "arcade_dropper"
         },
         {
-          "modeName" : "ZOMBIES_PRISON",
-          "name" : "Zombies",
-          "identifier" : "arcade_zombies_prison"
+          "modeName": "ZOMBIES_PRISON",
+          "name": "Zombies",
+          "identifier": "arcade_zombies_prison"
         }
       ]
     },
@@ -710,36 +710,36 @@
           "name": "Sheep Wars"
         },
         {
-          "modeName" : "PIXEL_PARTY",
-          "name" : "Pixel Party",
+          "modeName": "PIXEL_PARTY",
+          "name": "Pixel Party",
           "requirements": {
             "unavailable": true
           }
         },
         {
-          "modeName" : "INVADERS",
-          "name" : "Invaders",
+          "modeName": "INVADERS",
+          "name": "Invaders",
           "requirements": {
             "unavailable": true
           }
         },
         {
-          "modeName" : "TOWERWARS_SOLO",
-          "name" : "Towerwars",
+          "modeName": "TOWERWARS_SOLO",
+          "name": "Towerwars",
           "requirements": {
             "unavailable": true
           }
         },
         {
-          "modeName" : "WOOL_WARS",
-          "name" : "Wool Wars",
+          "modeName": "WOOL_WARS",
+          "name": "Wool Wars",
           "requirements": {
             "unavailable": true
           }
         },
         {
-          "modeName" : "TOWERWARS_TEAM_OF_TWO",
-          "name" : "Towerwars Team of two",
+          "modeName": "TOWERWARS_TEAM_OF_TWO",
+          "name": "Towerwars Team of two",
           "requirements": {
             "unavailable": true
           }
@@ -863,49 +863,299 @@
       ]
     },
     {
-      "game" : "PAINTBALL",
-      "name" : "Paintball",
-      "id" : 4,
-      "modes" : [
+      "game": "PAINTBALL",
+      "name": "Paintball",
+      "id": 4,
+      "modes": [
         {
-          "modeName" : "PAINTBALL",
-          "name" : "Paintball",
-          "identifier" : "paintball"
+          "modeName": "PAINTBALL",
+          "name": "Paintball",
+          "identifier": "paintball"
         }
       ]
     },
     {
-      "game" : "SUPER_SMASH",
-      "name" : "Smash Heroes",
-      "id" : 24,
-      "modes" : [
+      "game": "SUPER_SMASH",
+      "name": "Smash Heroes",
+      "id": 24,
+      "modes": [
         {
-          "modeName" : "solo_normal",
-          "name" : "Solo",
-          "identifier" : "super_smash_solo_normal"
+          "modeName": "solo_normal",
+          "name": "Solo",
+          "identifier": "super_smash_solo_normal"
         },
         {
-          "modeName" : "friends_normal",
-          "name" : "Friends",
-          "identifier" : "super_smash_friends_normal",
-          "requirements" : {
-            "minPartySize" : 4
+          "modeName": "friends_normal",
+          "name": "Friends",
+          "identifier": "super_smash_friends_normal",
+          "requirements": {
+            "minPartySize": 4
           }
         },
         {
-          "modeName" : "teams_normal",
-          "name" : "Team",
-          "identifier" : "super_smash_teams_normal"
+          "modeName": "teams_normal",
+          "name": "Team",
+          "identifier": "super_smash_teams_normal"
         },
         {
-          "modeName" : "2v2_normal",
-          "name" : "2v2",
-          "identifier" : "super_smash_2v2_normal"
+          "modeName": "2v2_normal",
+          "name": "2v2",
+          "identifier": "super_smash_2v2_normal"
         },
         {
-          "modeName" : "1v1_normal",
-          "name" : "1v1",
-          "identifier" : "super_smash_1v1_normal"
+          "modeName": "1v1_normal",
+          "name": "1v1",
+          "identifier": "super_smash_1v1_normal"
+        }
+      ]
+    },
+    {
+      "game": "SMP",
+      "name": "SMP",
+      "id": 67,
+      "modes": [
+        {
+          "modeName": "SMP",
+          "name": "SMP",
+          "requirements": {
+            "version": "1.21+"
+          }
+        }
+      ]
+    },
+    {
+      "game": "REPLAY",
+      "name": "Replay",
+      "id": 65,
+      "modes": [
+        {
+          "modeName" : "BASE",
+          "name" : "Replay"
+        }
+      ]
+    },
+    {
+      "game" : "TRUE_COMBAT",
+      "name" : "Crazy Walls",
+      "id" : 52,
+      "modes" : [
+        {
+          "requirements": {
+            "unavailable": true
+          }
+        }
+      ]
+    },
+    {
+      "game" : "PIT",
+      "name" : "Pit",
+      "id" : 64,
+      "modes" : [
+        {
+          "modeName" : "PIT",
+          "name" : "Pit",
+          "identifier" : "pit"
+        }
+      ]
+    },
+    {
+      "game" : "SPEED_UHC",
+      "name" : "Speed UHC",
+      "id" : 54,
+      "modes" : [
+        {
+          "modeName" : "solo_normal",
+          "name" : "Solo Normal",
+          "identifier" : "speed_solo_normal"
+        },
+        {
+          "modeName" : "team_normal",
+          "name" : "Team Normal",
+          "identifier" : "speed_team_normal"
+        }
+      ]
+    },
+    {
+      "game" : "DUELS",
+      "name" : "Duels",
+      "id" : 61,
+      "modes" : [
+        {
+          "modeName" : "DUELS_BOWSPLEEF_DUEL",
+          "name" : "Bow Spleef Duel",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_BOW_DUEL",
+          "name" : "Bow Duel",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_MW_DUEL",
+          "name" : "MegaWalls Duel",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_UHC_FOUR",
+          "name" : "UHC Teams",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_UHC_MEETUP",
+          "name" : "UHC Deathmatch",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_SW_DOUBLES",
+          "name" : "SkyWars Doubles",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_UHC_DOUBLES",
+          "name" : "UHC Doubles",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_SW_FOUR",
+          "name" : "SkyWars Teams",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_BRIDGE_FOUR",
+          "name" : "The Bridge Teams",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_SUMO_DUEL",
+          "name" : "Sumo Duel",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_BRIDGE_THREES",
+          "name" : "Bridge 3v3",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_OP_DUEL",
+          "name" : "OP Duel",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_MW_DOUBLES",
+          "name" : "MegaWalls Doubles",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_SUMO_TOURNAMENT",
+          "name" : "Sumo Championship",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_DUEL_ARENA",
+          "name" : "Duel Arena",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_COMBO_DUEL",
+          "name" : "Combo Duel",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_BRIDGE_2V2V2V2",
+          "name" : "The Bridge 2v2v2v2",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_BRIDGE_DOUBLES",
+          "name" : "The Bridge Doubles",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_BRIDGE_TOURNAMENT",
+          "name" : "The Bridge Championship",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_BOXING_DUEL",
+          "name" : "Bozing Duel",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_UHC_DUEL",
+          "name" : "UHC Duel",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_BRIDGE_3V3V3V3",
+          "name" : "The Bridge 3v3v3v3",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_UHC_TOURNAMENT",
+          "name" : "UHC Championship",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_OP_DOUBLES",
+          "name" : "OP Doubles",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_PARKOUR_EIGHT",
+          "name" : "Parkour",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_CAPTURE_THREES",
+          "name" : "Bridge CTF 3v3",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_BLITZ_DUEL",
+          "name" : "Blitz Duel",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_MW_FOUR",
+          "name" : "MegaWalls Teams",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_CLASSIC_DUEL",
+          "name" : "Classic Duel",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_POTION_DUEL",
+          "name" : "NoDebuff Duel",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_BRIDGE_DUEL",
+          "name" : "The Bridge Duel",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_SW_TOURNAMENT",
+          "name" : "SkyWars Championship",
+          "identifier" : "null"
+        },
+        {
+          "modeName" : "DUELS_SW_DUEL",
+          "name" : "DUELS_SW_DUEL",
+          "identifier" : "null"
+        }
+      ]
+    },
+    {
+      "game" : "GINGERBREAD",
+      "name" : "Turbo Kart Racers",
+      "id" : 25,
+      "modes" : [
+        {
+          "modeName" : "normal",
+          "name" : "Turbo Kart Racers",
+          "identifier" : "tkr"
         }
       ]
     }

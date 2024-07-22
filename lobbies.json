@@ -10,7 +10,8 @@
       "name" : "Main",
       "aliases" : [
         "main",
-        "lobby"
+        "lobby",
+        "pit"
       ]
     },
     {
