@@ -4,7 +4,6 @@ import time
 
 logging.basicConfig(level=logging.WARNING)
 
-
 def main():
   file_path = "../../apis/playcommands.json"
   logging.debug("Loading file")
