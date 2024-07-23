@@ -4,7 +4,6 @@ import time
 
 logging.basicConfig(level=logging.WARNING)
 
-
 def main():
   file_path = "../../apis/playcommands.json"
   logging.debug("Loading file")
@@ -32,7 +31,6 @@ def main():
   commandsList = sorted(commandsList)
   data["commandsRaw"] = commandsList
   current_time = int(time.time())
-  print(current_time)
   data["lastUpdated"] = current_time
 
   response = input(f"Generated {len(commandsList)} identifiers. Input `push` to merge list with source.\n")
