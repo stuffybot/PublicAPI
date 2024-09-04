@@ -4,26 +4,14 @@
     {
       "id" : "812618182023970816",
       "identifier" : "STUFFY_BOT",
-      "data" : {
-        "startups" : 0,
-        "commands_run" : [
-          {
-            "name" : "stats",
-            "count" : 0,
-            "success" : 0
-          }
-        ]
-      }
+      "servers" : 0,
+      "commandsRun" : { }
     },
     {
       "id" : "802431232418775040",
-      "identifier" : "STUFFY_BOT_DEV",
-      "data" : {
-        "startups" : 0,
-        "commands_run" : [
-
-        ]
-      }
+      "identifier" : "STUFFY_BOT_DEV"",
+      "servers" : 0,
+      "commandsRun" : { }
     }
   ]
 }
